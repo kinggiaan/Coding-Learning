@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\KTLT\ASS2\ASS2\ASS2\SLLDataController.h(148,26): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\KTLT\ASS2\ASS2\ASS2\SLLDataController.h(158,18): warning C4305: 'return': truncation from 'int' to 'bool'
+  ASS2.vcxproj -> D:\KTLT\ASS2\ASS2\Debug\ASS2.exe

@@ -1,0 +1,4 @@
+﻿  Ex1_1.cpp
+D:\KTLT\LAB\OOP_1\Ex1_1\Ex1_1\Ex1_1.cpp(18,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\KTLT\LAB\OOP_1\Ex1_1\Ex1_1\Ex1_1.cpp(36,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\KTLT\LAB\OOP_1\Ex1_1\Ex1_1\Ex1_1.cpp(37,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

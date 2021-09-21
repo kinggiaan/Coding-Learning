@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(27,16): error C2131: expression did not evaluate to a constant
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(27,16): message : failure was caused by a read of a variable outside its lifetime
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(27,16): message : see usage of 'N1'
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(51,17): error C2131: expression did not evaluate to a constant
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(51,17): message : failure was caused by a read of a variable outside its lifetime
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(51,17): message : see usage of 'N1'
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(75,17): error C2131: expression did not evaluate to a constant
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(75,17): message : failure was caused by a read of a variable outside its lifetime
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(75,17): message : see usage of 'N1'
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(102,25): error C2672: 'std::reverse': no matching overloaded function found
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(102,62): error C2780: 'void std::reverse(const _BidIt,const _BidIt)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xutility(5656): message : see declaration of 'std::reverse'
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(109,21): error C2672: 'std::reverse': no matching overloaded function found
+D:\KTLT\Ass1\Ass1\Ass1\mongol.h(109,58): error C2780: 'void std::reverse(const _BidIt,const _BidIt)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xutility(5656): message : see declaration of 'std::reverse'

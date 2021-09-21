@@ -1,0 +1,4 @@
+0
+PUSH 10 0 J
+PUSH 1 0 K
+TOP
